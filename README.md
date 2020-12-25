@@ -1,5 +1,4 @@
-## Hi there, I'm Basharat Ali 👋
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I'm Basharat Ali! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ### Webdesigner | Software Developer 👨‍💻
