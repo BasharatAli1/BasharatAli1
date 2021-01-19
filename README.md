@@ -1,7 +1,7 @@
 ## Hi there, I'm Basharat Ali! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-### Webdesigner | Software Developer 👨‍💻
+### Web Developer | Software Developer 👨‍💻
 
 
 - 🔭 I’m currently working on Full Stack Web Development
