@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning M.E.R.N Stack
 
 ### Education:
-- BS IT from Punjab University College of Information Technology (PUCIT), Lahore - Current
+- BS IT from Punjab University College of Information Technology (PUCIT), Lahore
 
 
 ### Languages and Tools:
